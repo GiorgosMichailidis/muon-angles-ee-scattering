@@ -10,5 +10,6 @@ The script produces:
 
 The script creates two histograms: one for the azimuthal angle and one for the polar angle, and fits the respective PDFs. Additionally, a 2D histogram is plotted with the distributions of both the azimuthal and polar angles.
 
+The code was developed 
 **To run this script, you must have ROOT installed.**
 
